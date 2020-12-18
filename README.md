@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"> <img src = "https://github.com/mitraws/mitraws/blob/main/Mitra%20Wong%20Sokhandani.png"/></p>
 
 <!--
 **mitraws/mitraws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
